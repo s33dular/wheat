@@ -1,3 +1,7 @@
+#NOTE
+Git LFS is required to upload the tool; request has been made and the file will be uploaded soon!
+
+
 ##Web History Extraction Artefact Tool
 ###A GNU/Linux USB triage tool for initial forensic investigations.
 
